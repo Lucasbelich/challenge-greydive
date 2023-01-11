@@ -4,7 +4,6 @@ This project was built for the Challenge-Front-End for the Greydive company.
 
 ## Contents
 
- - General Information
  - Technologies
  - Dependencies
  - Deployment
