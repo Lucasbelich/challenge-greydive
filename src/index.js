@@ -8,7 +8,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     <BrowserRouter >
-      <App basename="/challenge-greydive"/>
+      <App />
     </BrowserRouter>
   </React.StrictMode>
 );

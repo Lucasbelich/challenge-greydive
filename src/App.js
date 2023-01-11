@@ -7,6 +7,7 @@ function App() {
   return (
     <div>
       <Routes>
+        <Route path="*" element={<h1>NOT FOUND 404</h1>} />
         <Route path="/" element={<Form />} />
         <Route path="/registered" element={<Registered />} />
       </Routes>
