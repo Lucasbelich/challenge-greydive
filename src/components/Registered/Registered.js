@@ -37,7 +37,7 @@ const Registered = () => {
       <h2>Sus datos de registro son:</h2>
       {loading ? (
         <div className="d-flex justify-content-center mt-5">
-          <div className="spinner-border" role="status"/>         
+          <div className="spinner-border" role="status" />
         </div>
       ) : (
         user.map((user) => (
